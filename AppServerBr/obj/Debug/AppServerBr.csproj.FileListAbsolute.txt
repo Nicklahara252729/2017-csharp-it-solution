@@ -1,0 +1,49 @@
+C:\Users\MUSTAAMIR\Documents\AppServerBr\AppServerBr\bin\Debug\AppServerBr.exe.config
+C:\Users\MUSTAAMIR\Documents\AppServerBr\AppServerBr\bin\Debug\AppServerBr.exe
+C:\Users\MUSTAAMIR\Documents\AppServerBr\AppServerBr\bin\Debug\AppServerBr.pdb
+C:\Users\MUSTAAMIR\Documents\AppServerBr\AppServerBr\obj\Debug\AppServerBr.csprojResolveAssemblyReference.cache
+C:\Users\MUSTAAMIR\Documents\AppServerBr\AppServerBr\obj\Debug\AppServerBr.Form1.resources
+C:\Users\MUSTAAMIR\Documents\AppServerBr\AppServerBr\obj\Debug\AppServerBr.Properties.Resources.resources
+C:\Users\MUSTAAMIR\Documents\AppServerBr\AppServerBr\obj\Debug\AppServerBr.csproj.GenerateResource.Cache
+C:\Users\MUSTAAMIR\Documents\AppServerBr\AppServerBr\obj\Debug\AppServerBr.exe
+C:\Users\MUSTAAMIR\Documents\AppServerBr\AppServerBr\obj\Debug\AppServerBr.pdb
+E:\BBPLK\AppServerBr\AppServerBr\bin\Debug\AppServerBr.exe.config
+E:\BBPLK\AppServerBr\AppServerBr\obj\Debug\AppServerBr.exe
+E:\BBPLK\AppServerBr\AppServerBr\obj\Debug\AppServerBr.pdb
+E:\BBPLK\AppServerBr\AppServerBr\bin\Debug\AppServerBr.exe
+E:\BBPLK\AppServerBr\AppServerBr\bin\Debug\AppServerBr.pdb
+E:\BBPLK\AppServerBr\AppServerBr\obj\Debug\AppServerBr.csprojResolveAssemblyReference.cache
+E:\BBPLK\AppServerBr\AppServerBr\obj\Debug\AppServerBr.Form1.resources
+E:\BBPLK\AppServerBr\AppServerBr\obj\Debug\AppServerBr.FrmReporting.resources
+E:\BBPLK\AppServerBr\AppServerBr\obj\Debug\AppServerBr.Properties.Resources.resources
+E:\BBPLK\AppServerBr\AppServerBr\obj\Debug\AppServerBr.csproj.GenerateResource.Cache
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CSITSOLUTION\AppServerBr\bin\Debug\AppServerBr.exe.config
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CSITSOLUTION\AppServerBr\obj\Debug\AppServerBr.exe
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CSITSOLUTION\AppServerBr\obj\Debug\AppServerBr.pdb
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CSITSOLUTION\AppServerBr\bin\Debug\AppServerBr.exe
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CSITSOLUTION\AppServerBr\bin\Debug\AppServerBr.pdb
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CSITSOLUTION\AppServerBr\obj\Debug\AppServerBr.csprojResolveAssemblyReference.cache
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CSITSOLUTION\AppServerBr\obj\Debug\AppServerBr.Form1.resources
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CSITSOLUTION\AppServerBr\obj\Debug\AppServerBr.Properties.Resources.resources
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CSITSOLUTION\AppServerBr\obj\Debug\AppServerBr.csproj.GenerateResource.Cache
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CSCHAT\AppServerBr\bin\Debug\AppServerBr.exe.config
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CSCHAT\AppServerBr\obj\Debug\AppServerBr.exe
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CSCHAT\AppServerBr\obj\Debug\AppServerBr.pdb
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CSCHAT\AppServerBr\bin\Debug\AppServerBr.exe
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CSCHAT\AppServerBr\bin\Debug\AppServerBr.pdb
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CSCHAT\AppServerBr\obj\Debug\AppServerBr.csprojResolveAssemblyReference.cache
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CSCHAT\AppServerBr\obj\Debug\AppServerBr.Form1.resources
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CSCHAT\AppServerBr\obj\Debug\AppServerBr.Properties.Resources.resources
+C:\Users\MUSTAAMIR\Documents\Latihan BBPLK\GUI\CSCHAT\AppServerBr\obj\Debug\AppServerBr.csproj.GenerateResource.Cache
+E:\CSITSOLUTION\AppServerBr\bin\Debug\AppServerBr.exe.config
+E:\CSITSOLUTION\AppServerBr\obj\Debug\AppServerBr.exe
+E:\CSITSOLUTION\AppServerBr\obj\Debug\AppServerBr.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\csitsolutionnew\AppServerBr\bin\Debug\AppServerBr.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\csitsolutionnew\AppServerBr\obj\Debug\AppServerBr.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\csitsolutionnew\AppServerBr\obj\Debug\AppServerBr.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\csitsolutionnew\AppServerBr\bin\Debug\AppServerBr.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\csitsolutionnew\AppServerBr\bin\Debug\AppServerBr.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\csitsolutionnew\AppServerBr\obj\Debug\AppServerBr.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\csitsolutionnew\AppServerBr\obj\Debug\AppServerBr.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\csitsolutionnew\AppServerBr\obj\Debug\AppServerBr.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\csitsolutionnew\AppServerBr\obj\Debug\AppServerBr.csproj.GenerateResource.Cache
